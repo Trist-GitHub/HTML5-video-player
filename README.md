@@ -1,4 +1,4 @@
-# HTML5 video player
+# Html5 video player
 ---------------------
 A video player made fully in html.
 
