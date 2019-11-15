@@ -21,7 +21,7 @@
 <!--[if lt Opera 28]>
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <![endif]-->
-<!--[if lt Opera 27]>
+<!--[if lt Opera 27]> 
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <![endif]-->
 <!--[if lt Firefox 29]>
