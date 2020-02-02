@@ -1,4 +1,5 @@
 # Html5 video player
+[![Run on Repl.it](https://repl.it/badge/github/TristHub/HTML5-video-player)](https://repl.it/github/TristHub/HTML5-video-player)
 ---------------------
 A video player made fully in html.
 
